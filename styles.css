@@ -155,8 +155,6 @@ article p {
 }
 
 .footer-img {
-  height: 50px;
-  width: 50px; 
   display:flex;
   flex-direction: column;
   align-items: center;
@@ -170,3 +168,17 @@ article p {
   flex-wrap: wrap;
 }
 
+#instagram {
+   height: 50px;
+   width: 50px; 
+  padding: 15px;
+}
+
+
+#linkedin {
+   height: 50px;
+    width: 50px; 
+  padding: 15px;
+}
+
+ 
