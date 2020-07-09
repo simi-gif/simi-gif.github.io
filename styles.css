@@ -4,7 +4,10 @@
   padding: 0px;
 }
 /*TODO: Add a background color or image to your website*/
-.index {
+body {
+  background-color: #FFFFFF;
+}
+body {
   background-color: #242582;
 }
 
