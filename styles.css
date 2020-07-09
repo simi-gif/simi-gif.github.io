@@ -62,15 +62,14 @@ article p {
 
 /*TODO: Style the Nav Bar by selecting the u1, li, and li a elements*/
 
-ul {
+.idk {
   list-style-type: none;
   padding: 1em;
   background-color: #242582;
-  overflow: hidden;
   text-align: right;
 }
 
-li {
+.ydk {
   display: inline;
   font-size: 0.5 em;
   font-family: "Baumans";
@@ -78,11 +77,11 @@ li {
   text-align: center;
 }
 
-li:last-child {
+.ydk:last-child {
   border-right: none;
 }
 
-li a {
+.ydk a {
   color: white;
   text-decoration: none;
   text-align: center;
@@ -90,7 +89,7 @@ li a {
   font-size: 1.3em;
 }
 
-li a:hover {
+.ydk a:hover {
   background-color: #99738e;
 }
 .active {
