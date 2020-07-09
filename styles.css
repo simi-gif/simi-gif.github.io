@@ -175,8 +175,8 @@ li a:hover {
   height: 50px;
   width: 50px;
   display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-around;
+  float: left;
+  width: 33.33%;
+  padding: 5px;
   
 }
