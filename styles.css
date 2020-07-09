@@ -160,7 +160,8 @@ li a:hover {
   text-align: center;
   display: flex;
 }
-.foot-img {
+
+.footer-img {
   max-height: 30px;
   display: block;
   margin-left: auto;
