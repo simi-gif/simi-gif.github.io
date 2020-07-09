@@ -174,9 +174,6 @@ li a:hover {
   max-width: 100px;
   height: 50px;
   width: 50px;
-  display: flex;
-  float: left;
-  width: 50%;
-  padding: 5px;
+
   
 }
