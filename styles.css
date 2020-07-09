@@ -151,3 +151,18 @@ li a:hover {
   padding-top: 2em;
   padding-bottom: 1em;
 }
+
+
+.footer {
+  background-color: #242582;
+  color: white;
+}
+.foot-img {
+  max-height: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  padding-top: 2em;
+  padding-bottom: 1em;
+}
