@@ -157,6 +157,8 @@ li a:hover {
   background-color: #242582;
   color: white;
   font-family: "Baumans";
+  text-align: center;
+  display: flex;
 }
 .foot-img {
   max-height: 30px;
