@@ -154,8 +154,6 @@ article p {
   padding-bottom: 1em;
 }
 
-
-
 .footer-img {
   height: 50px;
   width: 50px; 
@@ -164,6 +162,7 @@ article p {
   align-items: center;
   padding: 15px;
 }
+
 .footer {
   background-color: #242582;
   display:flex;
