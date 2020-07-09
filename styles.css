@@ -5,7 +5,7 @@
 }
 /*TODO: Add a background color or image to your website*/
 body {
-  background-color: white;
+  background-color: #242582;
 }
 
 /*TODO: Add styling rules for the text and images on your website.*/
@@ -154,8 +154,8 @@ li a:hover {
 
 
 .footer {
-  background-color: white;
-  color: black;
+  background-color: #242582;
+  color: white;
   font-family: "Baumans";
   text-align: center;
   display: flex;
@@ -169,4 +169,6 @@ li a:hover {
 
 .footer-img {
   max-height: 100px;
+  max-width: 100px;
+  
 }
