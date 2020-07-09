@@ -154,19 +154,19 @@ li a:hover {
 
 
 .footer {
-  background-color: #242582;
-  color: white;
+  background-color: white;
+  color: black;
   font-family: "Baumans";
   text-align: center;
   display: flex;
-}
-
-.footer-img {
-  max-height: 30px;
   display: block;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: auto;
   padding-top: 2em;
   padding-bottom: 1em;
+}
+
+.footer-img {
+  max-height: 30px;
 }
